@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/rajmalpani2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/rajmalpani2002" target="_blank">
+  <a href="https://twitter.com/rajmalpani01" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://dev.to/rajmalpani" target="_blank">
