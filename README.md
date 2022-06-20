@@ -1,4 +1,4 @@
-[![Header](https://github.com/rajmalpani/rajmalpani/blob/main/header.png?raw=true "Header")](https://rajmalpani.netlify.app)
+<!-- [![Header](https://github.com/rajmalpani/rajmalpani/blob/main/header.png?raw=true "Header")](https://rajmalpani.netlify.app) -->
 
 <p align="center">
   <a href="https://rajmalpani.netlify.app" target="_blank">
@@ -46,7 +46,7 @@ website -->
 
 📫You can reach me at rajkumarmalpani01@gmail.com
 
-⚡ Fun fact  - I like Philosophy and Astronomy
+⚡ Fun fact  - I like to travel and party
 
 <br>
 
@@ -99,30 +99,7 @@ website -->
 <a href="https://github.com/rajmalpani/rajmalpani">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajmalpani&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Raj's GitHub Contributions Graph"/>
 </a>
-<br><br>
 
-<a href="https://github.com/rajmalpani/NFT-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmalpani&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a href="https://github.com/rajmalpani/Wave-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmalpani&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/rajmalpani/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmalpani&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/rajmalpani/NASA-APOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmalpani&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/rajmalpani/Web-Postman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmalpani&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<a href="https://github.com/rajmalpani/IP-Address_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmalpani&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <br><br>
 
 ## Blog & Writing &#x270d; 
